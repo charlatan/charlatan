@@ -1,11 +1,26 @@
-# Это файл "index.md"
-- 👋 Hi, I’m @charlatan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# This is an motherfucking index.md
 
-<!---
-charlatan/charlatan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It's even more fucking perfect than the other motherfucking index.md's. And why is that, you fuck?
+
+## __Hipstered domain extension and beautiful typography.__
+
+We all know that Motherfucking Website ― *MFW* ― it's grotesque pile of shit. And we also know that Better Motherfucking Website ― *BMFW* ― improved the *Ass-Blastered Crap* into an (almost) easy-to-read masterpiece. But I made it even better! Like the other motherfucking websites, __Even Better Motherfucking Website__ ― *EBMFW* ―, has all of the glory that the original, 'perfect-ass' website has - along with some improvements from the *BMFW*:
+
+- 👋 Shit's still lightweight and loads fast;
+- 👀 Still fits on all of your shitty screens;
+- 🌱 Still looks the same in all of your shitty browsers;
+- 💞️ This motherfucker's still accessible to every asshole that visits your site;
+- 📫 Shit's still legible and gets your fucking point across;
+- :joy: Plus a hipstered domain extension and beautiful typography.
+
+## Yes, this continues to be fucking satirical, fuckers
+
+Like the creator of Better Motherfucking Website, I ♥ what the creator of Motherfucking Website did. It's all about the message! But let's face it: would you rather have crap, or some beautifully-aligned shit?
+
+>"Imagine all the people..."
+
+*— John Lennon, Yoko's husband*
+---
+## Epilogue
+
+Inspired by the geniuses behind Better Motherfucking Website and Motherfucking Website. ☺
