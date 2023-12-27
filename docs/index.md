@@ -4,7 +4,7 @@ It's even more fucking perfect than the other motherfucking index.md's. And why 
 
 ## __Hipstered domain extension and beautiful typography.__
 
-We all know that <u>Motherfucking Website</u> ― *MFW* ― it's grotesque pile of shit. And we also know that <u>Better Motherfucking Website</u> ― *BMFW* ― improved the *Ass-Blastered Crap* into an (almost) easy-to-read masterpiece. But I made it even better! Like the other motherfucking websites, __Even Better Motherfucking Website__ ― *EBMFW* ―, has all of the glory that the original, 'perfect-ass' website has - along with some improvements from the *BMFW*:
+We all know that <ins>Motherfucking Website</ins> ― *MFW* ― it's grotesque pile of shit. And we also know that <u>Better Motherfucking Website</u> ― *BMFW* ― improved the *Ass-Blastered Crap* into an (almost) easy-to-read masterpiece. But I made it even better! Like the other motherfucking websites, __Even Better Motherfucking Website__ ― *EBMFW* ―, has all of the glory that the original, 'perfect-ass' website has - along with some improvements from the *BMFW*:
 
 - 👋 Shit's *still* lightweight and loads fast;
 - 👀 *Still* fits on all of your shitty screens;
